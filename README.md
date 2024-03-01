@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UthraCG
-- 👀 I’m interested in ...Data research
+- 👀 I’m interested in ...Data research and Analysis
 - 🌱 I’m currently learning ... Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...cguthra@gmail.com
